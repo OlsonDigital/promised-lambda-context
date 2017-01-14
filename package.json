@@ -1,0 +1,28 @@
+{
+  "name": "promised-lambda-context",
+  "version": "0.1.0",
+  "description": "A factory returning a promise with Lambda context properties.  For use in unit testing Lambdas.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlsonDigital/promised-lambda-context.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "testing",
+    "promise"
+  ],
+  "author": "CID10",
+  "contributors": [
+    "Paul Michelotti <paul.michelotti@icfolson.com> (http://paulmichelotti.com)"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OlsonDigital/promised-lambda-context/issues"
+  },
+  "homepage": "https://github.com/OlsonDigital/promised-lambda-context#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
